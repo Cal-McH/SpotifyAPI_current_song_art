@@ -1,4 +1,4 @@
-# Spotify_current_album_art
+# SpotifyAPI_current_song_art
 Extracts the current playing songs album art from the Spotify API. This uses the current playing song API to extract the current playing song info and plots the album art for the song. There is also a parameter named 'pixel' in the album art function which converts the album art to a pixelated 64x64 version.
 
 # Prerequisits
